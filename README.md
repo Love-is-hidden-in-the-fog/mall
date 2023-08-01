@@ -1,5 +1,3 @@
-![image](https://github.com/Love-is-hidden-in-the-fog/mall/assets/103480131/5a86e025-c5ea-4cb9-9d70-ef66b31e9480)# mall-admin-web
-
 ## Project setup
 ```
 npm install
