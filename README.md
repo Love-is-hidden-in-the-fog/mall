@@ -16,7 +16,7 @@ npm run build
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-## 项目界面
+## 项目部分界面
 商品列表页面
 ![image](https://github.com/Love-is-hidden-in-the-fog/mall/assets/103480131/131d24f2-76ac-4eb4-914b-e47e17c98771)
 
